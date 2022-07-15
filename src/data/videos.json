@@ -1,0 +1,70 @@
+{
+    "videoData": [
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://cdn.one.org/africa/wp-content/uploads/2022/04/04143347/AJN_2022_share_1200x628_1-640x335.jpg",
+            "video": "http://localhost:4000/video"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://miro.medium.com/max/1024/1*h5UGPzaL1E4dIy_JWDrsAw.png",
+            "video": "https://youtu.be/P9iPATix0u0"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://cdn.one.org/africa/wp-content/uploads/2022/05/05162255/4_MNS_Chatbot_Take-Action_1200x768_v2-640x410.jpg",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://i.ytimg.com/vi/W3FpWrHSJiY/mqdefault.jpg",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://i.ytimg.com/vi/oJsu3OjWt9E/mqdefault.jpg",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://pbs.twimg.com/media/FP0R7-3XMAE44ed.jpg",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://smartafrica.org/wp-content/uploads/2020/07/Cloud-Connected-Africa.jpg",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://play-lh.googleusercontent.com/x0y2hquScMwD5xK7AJHR4sytnuZugFsoVOwR6j78P9eCy_LmQ79yV-Tw-BKGiJEUBrQ=w416-h235-rw",
+            "video": "https://youtu.be/P9iPATix0u0"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://www.appsafrica.com/wp-content/uploads/2021/12/agbora-300x180.png.webp",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://i0.wp.com/bitstopia.com/wp-content/uploads/2020/11/African-Launchpad-for-App-and-Game-Development.png?fit=600%2C287&ssl=1",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        },
+        {
+            "title": "Learn React JS props and Tailwind",
+            "owner": "Dev NB",
+            "thumbnail": "https://www.ringier.com/wp-content/uploads/2021/09/Location_Africa_Intro-Image.jpg",
+            "video": "/video/ProudAfricanCampaign.mkv"
+        }
+    ]
+}
